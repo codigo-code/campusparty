@@ -1,0 +1,4 @@
+ar\gob\vuce\api\TestApi.class
+ar\gob\vuce\App.class
+ar\gob\vuce\config\WebSecurityConfig.class
+ar\gob\vuce\config\MvcConfig.class
